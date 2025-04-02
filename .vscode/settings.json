@@ -1,0 +1,6 @@
+{
+    "nuxt.isNuxtApp": false,
+    "npm.enableScriptExplorer": true,
+    "npm.scriptExplorerAction": "run",
+    "task.allowAutomaticTasks": "on"
+}
