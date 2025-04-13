@@ -2,21 +2,13 @@
     "version": "2.0.0",
     "tasks": [
         {
+            "label": "Start Development Server",
             "type": "npm",
             "script": "dev",
-            "problemMatcher": [],
-            "label": "npm: dev",
-            "detail": "vite",
-            "presentation": {
-                "reveal": "always",
-                "panel": "new",
-                "close": false
+            "runOptions": {
+                "runOn": "folderOpen"
             },
-            "isBackground": true,
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            "problemMatcher": []
         }
     ]
 } 
