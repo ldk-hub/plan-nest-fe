@@ -12,4 +12,4 @@
  - 아이콘: Lucide Icons
  - 차트: Recharts
 
- 
+  ![화면 캡처 2025-07-06 200003](https://github.com/user-attachments/assets/df8da999-7913-45c7-90d7-945436b9c71e)
