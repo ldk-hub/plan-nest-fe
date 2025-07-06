@@ -4,5 +4,6 @@
     "npm.scriptExplorerAction": "run",
     "task.allowAutomaticTasks": "on",
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "task.autoDetect": "on"
+    "task.autoDetect": "on",
+    "git.ignoreLimitWarning": true
 }
